@@ -1,0 +1,46 @@
+name: nbdesign
+analytics: {}
+github: true
+description: Custom Logo Design
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+author: {}
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+content: []
+layout_spectrum: 0.5832253869157284
+color:
+  lightness: 0.3166344631463289
+  brandColors:
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
+  saturation: 0.6745183132588863
+  brandStrength: 0.06618639267981052
+  rhythmicContrast: 0.5884234320838004
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/16bc908d-f2ee-4a7e-809a-593e9684677b.png
+content_rating:
+  adult: false
+typography_spectrum: 0.5040532078128308
+opengraph: {}
+title: nbdesign
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/3da14c6a-f691-49b8-9ebf-d899d4563a1e.png
